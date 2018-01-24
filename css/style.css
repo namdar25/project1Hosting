@@ -1,0 +1,68 @@
+body {
+     background: linear-gradient(45deg, #81BCD4, #43626E);
+}
+ h1{
+     font-family: 'Encode Sans', sans-serif;
+     font-size: 4rem;
+     padding:1rem;
+     color:white;
+}
+ h2{
+     font-family: 'Encode Sans', sans-serif;
+     font-size: 2rem;
+}
+ h3{
+     font-family: 'Encode Sans', sans-serif;
+     font-size: 2rem;
+}
+ .footer-container{
+     padding:.25rem;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 1rem;
+     background:white;
+}
+ .card-body {
+     font-family: 'Open Sans', sans-serif;
+     font-size: 1rem;
+     background: linear-gradient(0, #81BCD4,#90D3ED);
+     border-radius: 2rem;
+}
+ .nav-item{
+     padding:1rem;
+}
+ .carousel-item {
+     margin-top:2%;
+     margin-bottom:2%;
+}
+ .carousel-item .active{
+     margin-top:2%;
+     margin-bottom:2%;
+}
+ .card {
+     height:auto;
+     width: 80vw;
+     margin:0 auto;
+     background-color:#90D3ED;
+     box-shadow: 0 .25rem 2rem 0 rgba(0,0,0,0.2);
+     transition: 0.3s;
+     border-radius: 2rem;
+}
+ .img-box{
+     width:100%;
+     height:80%;
+     padding:2.5% 2.5% 0 2.5%;
+     overflow:hidden;
+}
+ .card-img-top {
+     display:flex;
+     margin-top: auto;
+     margin-left: auto;
+     margin-right: auto;
+     left: 0;
+     right: 0;
+     height:auto;
+     max-height:50vh;
+     width:auto;
+     max-width:100%;
+     border-radius: 1rem 1rem 0 0;
+}
